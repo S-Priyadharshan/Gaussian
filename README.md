@@ -9,16 +9,16 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 
 ## Algorithm:
 
-## STEP 1:
+### STEP 1:
 Convert the matrix into upper triangular form using Gaussian elimination.
 
-## STEP 2:
+### STEP 2:
 Back substitute to find the solution.
 
-## STEP 3:
+### STEP 3:
 Iterate over each row to make the elements below the diagonal zero.
 
-## STEP 4:
+### STEP 4:
 Return the solution vector.
 
 ## Program:
